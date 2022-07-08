@@ -1,0 +1,33 @@
+
+header{
+    display: flex;
+    color:blueviolet;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
+h3 {
+    size: 40;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size:larger
+    
+}
+
+.start-btn {
+color:white;
+background-color: blueviolet;
+border-radius: 40px;
+font-size: x-large;
+border: 100px;
+margin: auto;
+display:flex;
+justify-content: center;
+border: 0 25 0 25;
+}
